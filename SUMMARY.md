@@ -13,7 +13,6 @@
 * [👟 Shoes](whitepaper/shoes.md)
 * [🗾 Map](whitepaper/map.md)
 * [🎲 Game mechanics](whitepaper/game-mechanics.md)
-* [🎆 Game NFTs](whitepaper/game-nfts.md)
 * [🎁 Player Benefits](whitepaper/player-benefits.md)
 * [🤝 Referral program](whitepaper/referral-program.md)
 * [🗺 Roadmap](whitepaper/roadmap.md)

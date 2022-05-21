@@ -27,3 +27,5 @@ There are six rarities shoes in the game: Common, Uncommon, Rare, Ultra Rare, Ep
 ### Mythical shoes:
 
 ![](../.gitbook/assets/shoes\_five.png)
+
+&#x20;   All player-made shoes can be traded on the Super Run exclusive marketplace.
