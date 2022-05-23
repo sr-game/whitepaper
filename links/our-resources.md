@@ -6,4 +6,5 @@ description: Stay tuned with our updates
 
 
 
-*
+* [Twitter](https://twitter.com/superrunnft/)
+* [Telegram](https://t.me/superrungame)
