@@ -16,6 +16,7 @@
 * [🎁 Player Benefits](whitepaper/player-benefits.md)
 * [🤝 Referral program](whitepaper/referral-program.md)
 * [🗺 Roadmap](whitepaper/roadmap.md)
+* [Upgrade old users](whitepaper/upgrade-old-users.md)
 
 ## 🔗 LINKS
 
