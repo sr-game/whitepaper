@@ -17,6 +17,7 @@
 * [🤝 Referral program](whitepaper/referral-program.md)
 * [🗺 Roadmap](whitepaper/roadmap.md)
 * [Upgrade old users](whitepaper/upgrade-old-users.md)
+* [Joints NFTs](whitepaper/joints-nfts.md)
 
 ## 🔗 LINKS
 
