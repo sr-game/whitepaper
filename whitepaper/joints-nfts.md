@@ -12,6 +12,8 @@ Users can contact customer service to exchange 10000WAX for each set of cards.
 
 ![](../.gitbook/assets/QmPRWao5gLUmTktJZHdEg7A4dLYA9TzBjSGDvLNk3aCeh4.png) ![](../.gitbook/assets/QmSWBPJ5edSngtFAZMBw26EjexWMMYTHcHghWfSp9aWMdq.png) ![](../.gitbook/assets/QmfM1hip56o1sUKfQFEhVVMjMcwpnC61dNwEtPrV67tagy.png) ![](../.gitbook/assets/QmPUoWpAkUVAhWo2EFwqaGxEczBptftCv5cdJXsFvfGr6T.png)
 
+Level 1\~2 map
+
 | Name             | Rarity   | Probability |
 | ---------------- | -------- | ----------- |
 | Axe              | Common   | 26.54%      |
@@ -22,3 +24,29 @@ Users can contact customer service to exchange 10000WAX for each set of cards.
 | Fishing Boat     | Rare     | 0.88%       |
 | Mining Excavator | Common   | 0.94%       |
 | Stone Axe        | Common   | 26.54%      |
+
+Level 3 map
+
+| Name             | Rarity   | Probability |
+| ---------------- | -------- | ----------- |
+| Axe              | Common   | 20.18%      |
+| Saw              | Uncommon | 18.34%      |
+| Chainsaw         | Rare     | 0.91%       |
+| Fishing Rod      | Common   | 20.18%      |
+| Fishing Net      | Uncommon | 18.34%      |
+| Fishing Boat     | Rare     | 0.91%       |
+| Mining Excavator | Common   | 0.96%       |
+| Stone Axe        | Common   | 20.18%      |
+
+Level 4 map
+
+| Name             | Rarity   | Probability |
+| ---------------- | -------- | ----------- |
+| Axe              | Common   | 18.39%      |
+| Saw              | Uncommon | 20.68%      |
+| Chainsaw         | Rare     | 1.14%       |
+| Fishing Rod      | Common   | 18.39%      |
+| Fishing Net      | Uncommon | 20.68%      |
+| Fishing Boat     | Rare     | 1.14%       |
+| Mining Excavator | Common   | 1.19%       |
+| Stone Axe        | Common   | 18.39%      |
