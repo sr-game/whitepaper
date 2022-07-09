@@ -50,3 +50,16 @@ Level 4 map
 | Fishing Boat     | Rare     | 1.14%       |
 | Mining Excavator | Common   | 1.19%       |
 | Stone Axe        | Common   | 18.39%      |
+
+Level 5 map
+
+| Name             | Rarity   | Probability |
+| ---------------- | -------- | ----------- |
+| Axe              | Common   | 15.68%      |
+| Saw              | Uncommon | 23.52%      |
+| Chainsaw         | Rare     | 1.96%       |
+| Fishing Rod      | Common   | 15.68%      |
+| Fishing Net      | Uncommon | 23.52%      |
+| Fishing Boat     | Rare     | 1.96%       |
+| Mining Excavator | Common   | 2.00%       |
+| Stone Axe        | Common   | 15.68%      |
