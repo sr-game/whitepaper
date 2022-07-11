@@ -25,11 +25,17 @@ _The starting time of the map's validity period is the time of the first use of 
 
 #### Run
 
-&#x20;   Use \[run] in the game to get the daily income of the map. When the newly purchased map is used for the first time \[run], it needs to be used once a day within the validity period of the map. If it is not used for one or more days , the income for the corresponding days will be lost, and after the map expires, the amount of the purchased map will be returned.
+&#x20;  ~~Use \[run] in the game to get the daily income of the map. When the newly purchased map is used for the first time \[run], it needs to be used once a day within the validity period of the map. If it is not used for one or more days , the income for the corresponding days will be lost, and after the map expires, the amount of the purchased map will be returned.~~
+
+&#x20;   Use \[Run] in the game to get the daily income of the map. When using \[Run] for the first time on a newly purchased map, it needs to be used once a day within the validity period of the map. If the map is not used for more than 1 day, the income for the corresponding number of days will be lost. After the map expires, the amount of the purchased map will be refunded. After each run, you need to take a 24-hour rest before you can use \[Run].
 
 #### Shoe Shine
 
-&#x20;   After each use of \[run], the shoes will become dirty, so we need to clean the shoes before proceeding to the next \[run], the cleaning fee of the shoes is 10% of the income of the previous day
+&#x20;  ~~After each use of \[run], the shoes will become dirty, so we need to clean the shoes before proceeding to the next \[run], the cleaning fee of the shoes is 10% of the income of the previous day~~
+
+&#x20;   After each use of \[run], the shoes will get dirty, so we need to clean the shoes before the next \[run], the cleaning fee for the shoes is 10% of the income of the previous day, and we need to wait 24 hours after each run to shine shoes.
+
+
 
 #### Income
 
